@@ -1,22 +1,22 @@
-# 🚀   Multi-Factor Authentication
+#   Multi-Factor Authentication
 
-## 🌟 Introduction
+## Introduction
 
 Welcome to the thrilling universe of our project – MFA Logger! Seamlessly blending cutting-edge technology and a user-friendly interface, this solution is set to redefine your security experience. In this README, we'll guide you through every aspect of the project, from its inception to how you can contribute and be part of this exciting journey.
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 In the digital age, navigating complex projects can be daunting. The need for a comprehensive solution that not only addresses current challenges but also sets new standards for user interaction and collaboration is evident.
 
-## 📜 Abstract
+##  Abstract
 
 MFA Logger, our project, addresses the pressing need for enhanced online security. It introduces a robust MFA system with cloud integration, providing secure authentication and centralized logging for detailed analysis. The integration of Python programming, advanced authentication processes, and cloud-based logging establishes a formidable defense against unauthorized access.
 
-## 🚀 Motivation
+##  Motivation
 
 Motivated by the increasing sophistication of cyber threats, traditional authentication methods are proving inadequate. MFA, coupled with a centralized logging mechanism, serves as a proactive approach to counteract potential security breaches and ensure a secure digital environment.
 
-## 🧰 Methodology
+##  Methodology
 
 ### User Registration and Authentication
 
@@ -34,11 +34,11 @@ Motivated by the increasing sophistication of cyber threats, traditional authent
 
 5. **Dashboard Development**: Build a monitoring dashboard offering visualization of authentication trends, successful logins, and potential security threats. Provide administrators with an intuitive interface for real-time insights.
 
-## 📚 Literature Review
+##  Literature Review
 
 To ensure our project aligns with the best practices in the field, we conducted an extensive literature review. Exploring existing MFA implementations, Python security practices, and cloud integration for authentication systems allowed us to gain valuable insights into proven methodologies and potential challenges.
 
-## 🌐 Sources
+##  Sources
 1. [great-mfa-project/guide/token-usage-guide.md](https://github.com/ossf/great-mfa-project/blob/main/guide/token-usage-guide.md)
 2. [The Great MFA Distribution Project](https://github.com/ossf/great-mfa-project)
 3. [Two-Factor Authentication](https://docs.readme.com/main/docs/two-factor-authentication)
